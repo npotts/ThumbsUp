@@ -9,9 +9,11 @@ A Sign of Endorsement
 
 ![Dont Do This](https://raw.githubusercontent.com/npotts/ThumbsUp/master/examples/dont-do-this.jpg "Dont Do This!!!")
 
-Forget all those corporate "thumbs up" by the likes of facebook or google + hoping for your dollar$.  Give a honest thumbs up on things you approve of. Rather than click a stupid meaningless icon on a website, fork this repo and add your own thumb stamp of approval to things you approve of. Dont let those corporate types do it all for you.
+Forget all those corporate "thumbs up" ploys as in Facebook's ![I Hate this fake like business](https://raw.githubusercontent.com/npotts/ThumbsUp/master/examples/fb-like.jpg "I hate this fake like business") or Google's ![Yes, I have that many +1's](https://raw.githubusercontent.com/npotts/ThumbsUp/master/examples/g+n.jpg "Yes, I have that many +1's") who are seriously only lurching for your dollar$.  Give a honest thumbs up on things you approve of. Rather than click a stupid meaningless icon on a website, fork this repo and add your own thumb stamp of approval to things you approve of. Dont let those corporate types do it all for you.
 
-Additionally, unlike facebook and google+, you can easily give a thumbs down to indicate displeasure.  This comes in handy for your least favorite team, or places you dont like.
+Additionally, unlike Facebook and Google+, you can easily give a thumbs down to indicate displeasure.  This comes in handy for your least favorite team, or places you dont like.
+
+
 
 Endorsements
 ============
@@ -50,3 +52,4 @@ Here are some ThumbsUp images to plaster on whatever you like.  I only have whit
 * Step 2: Slap that sucker on something you like or dislike
 * Step 3: ???
 * Step 4: PROFIT!!
+
