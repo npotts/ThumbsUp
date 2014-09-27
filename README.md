@@ -44,7 +44,7 @@ Spread the word (by using your actual mouth)
 Thumbs
 ======
 
-Here are some thumbs up images to plaster on whatever you like.  I only have white hands and don't have the money to do a reverse Michael Jordan, so fork and submit pull requests.
+Here are some ThumbsUp images to plaster on whatever you like.  I only have white hands and don't have the money to do a reverse Michael Jackson, so fork and submit pull requests.
 
 * Step 1: Download (or make your own) [Thumbs Up](https://raw.githubusercontent.com/npotts/ThumbsUp/master/thumbs/ThumbsUp.png "Thumbs Up") or [Thumbs Down](https://raw.githubusercontent.com/npotts/ThumbsUp/master/thumbs/ThumbsDown.png "Thumbs Down")
 * Step 2: Slap that sucker on something you like or dislike
